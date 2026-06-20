@@ -106,5 +106,4 @@ Project Portfolio
 Before publishing, edit the contact placeholders in `index.html`:
 
 - LinkedIn URL;
-- email address;
-- GitHub URL.
+- email address.
